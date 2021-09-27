@@ -6,6 +6,8 @@ public class TestGit {
 		System.out.println("Hola Mundo");
 		System.out.println("buenas tardesff");
 		String valor="hola";
+		
+		System.out.println(valor+" Mundo");
 	}
 
 }
